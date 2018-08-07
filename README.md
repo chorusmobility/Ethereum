@@ -11,7 +11,7 @@ A Vickrey auction is a type of sealed-bid auction. Bidders submit written bids w
 Vickrey's original paper mainly considered auctions where only a single, indivisible good is being sold. The terms Vickrey auction and second-price sealed-bid auction are, in this case only, equivalent and used interchangeably. When either a divisible good or multiple identical goods are sold in a single auction, however, these terms are used differently.
 
 Vickrey auctions are much studied in economic literature but uncommon in practice. Generalized variants of the Vickrey auction for multiunit auctions exist, such as the generalized second-price auction used in Google's and Yahoo!'s online advertisement programmes (not incentive compatible) and the Vickrey-Clarke-Grove Auction (incentive compatible).
-https://en.wikipedia.org/wiki/Vickrey_auction
+More details about Vickrey Auction: https://en.wikipedia.org/wiki/Vickrey_auction
 
 - The ERC20 Token Standard Interface
 
