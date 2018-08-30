@@ -16,3 +16,6 @@ More details about Vickrey Auction: https://en.wikipedia.org/wiki/Vickrey_auctio
 - The ERC20 Token Standard Interface
 
 https://theethereum.wiki/w/index.php/ERC20_Token_Standard
+
+
+All Rights Reserved. Proof-of-Stake Inc.
