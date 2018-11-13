@@ -2,8 +2,7 @@ pragma solidity ^0.4.21;
 
 /** @title Alpha version of smart contract for processing, storing, verification of Driver behavior on the road.
  *  @notice Current version oriented on one main and 4 additional characteristics of driver behavior analizing.
- *  @author Peter Zverkov - <hello@chorus.technology>
- */
+
 
 //Preconditions: Smart Contract sould have 2 x bid_limit x transactions Tokens balance
 
